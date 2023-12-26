@@ -1,0 +1,12 @@
+#about {
+    background-color:aqua; /* Set background color for the "About" section */
+    text-align: center;
+    height: 90vh;
+    align-items: center;
+    /* Make the "About" section occupy the entire viewport height */
+}
+
+#projects {
+    padding: 50px;
+    text-align: center;
+}
